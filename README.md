@@ -1,6 +1,6 @@
-# 👋 Hola, soy Carlos Mario García Díaz Muñoz  
+# 👋 Hola, soy Carlos García  
 
-🎓 **Estudiante de Ingeniería en Sistemas, Software y Redes** en UNITEC  
+🎓 **Estudiante de Ingeniería en Software y Redes** en UNITEC  
 💻 Apasionado por el desarrollo de software, bases de datos y redes.  
 
 ---
@@ -8,7 +8,6 @@
 ## 🚀 Sobre mí  
 - 🌱 Actualmente aprendiendo **Python** y explorando **Git/GitHub**  
 - 🔧 Experiencia con **C++**, **Java**, **MySQL/SQL Server**  
-- 📚 He desarrollado proyectos académicos como **agendas** y **sistemas de gestión de bibliotecas**  
 - 💡 Interesado en **administración de redes, virtualización y optimización de sistemas**  
 
 ---
