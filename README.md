@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos Mario García Díaz Muñoz  
 
-<!--
-**carloosgaarcia/carloosgaarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería en Sistemas, Software y Redes** en UNITEC  
+💻 Apasionado por el desarrollo de software, bases de datos y redes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí  
+- 🌱 Actualmente aprendiendo **Python** y explorando **Git/GitHub**  
+- 🔧 Experiencia con **C++**, **Java**, **MySQL/SQL Server**  
+- 📚 He desarrollado proyectos académicos como **agendas** y **sistemas de gestión de bibliotecas**  
+- 💡 Interesado en **administración de redes, virtualización y optimización de sistemas**  
+
+---
+
+## 🛠️ Lenguajes y Herramientas  
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,git,github,vscode,idea" />
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub  
+![Estadísticas de GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-lang)
