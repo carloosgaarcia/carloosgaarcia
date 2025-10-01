@@ -19,7 +19,3 @@
 
 ---
 
-## 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-lang)
