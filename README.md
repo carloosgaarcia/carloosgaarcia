@@ -20,6 +20,11 @@
 </p>
 
 ---
+## 📈 Estadísticas de GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carloosgaarcia&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloosgaarcia&layout=compact&theme=tokyonight" height="150"/>
+</p>  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
