@@ -7,7 +7,7 @@
 
 ---
 
-### ✨ Sobre mí  
+###  Sobre mí  
 🚀 Desarrollador en formación, apasionado por la tecnología y la innovación.  
 
 🎯 Me encanta aprender, experimentar y construir cosas nuevas.  
@@ -48,7 +48,7 @@
 
 ---
 
-### 🔥 Un poco de diversión
+### 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6fa8dc&size=24&center=true&vCenter=true&width=600&lines=Programador+en+crecimiento;Amante+del+conocimiento;Siempre+aprendiendo+cosas+nuevas;¡Nunca+es+tarde+para+mejorar!" />
 </p>
