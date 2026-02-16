@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#6fa8dc;">Carlos García</span></h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Software y Redes | UNITEC</h3>
+<h3 align="center">💻 Estudiante de Ingeniería en Software y Redes </h3>
 
 ---
 
