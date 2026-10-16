@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#6fa8dc;">Carlos García</span></h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Software y Redes </h3>
+<h3 align="center">💻 Egresado de Ingeniería en Software y Redes </h3>
 
 ---
 
@@ -64,13 +64,7 @@
   <a href="https://linkedin.com/in/cgarciad04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:carlos_mario05@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+ 
 
 ---
 
-<p align="center">
-  ⭐ *“Cada línea de código es una oportunidad para crear algo increíble.”* ⭐
-</p>
